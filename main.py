@@ -41,7 +41,7 @@ def genlink():
                 print(link)
 
         except:
-            break
+            pass
 
 def main():
     for i in range(y):
